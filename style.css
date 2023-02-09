@@ -1,0 +1,85 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .form {
+    margin: 50px auto;
+    text-align: left;
+    width: 400px;
+    padding: 20px;
+    border: 1px solid gray;
+    border-radius: 10px;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  input[type=text] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: lightgray;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  
+  .result {
+    margin: 50px auto;
+    width: 400px;
+    padding: 20px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  p {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  .form{
+    background-color:rgb(172, 12, 39);
+    background-image: none;
+   
+  }
+  #green{
+  background-image: url(./lovecalculator/Valentines-Day-Label.jpg.jpg);
+  }
+  #text{
+    font-style: inherit;
+    color: rgb(255, 0, 119);
+  }
+  #result{
+    color: azure;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+ #image1{
+  background-image: url(./lovecalculator/valentine2.jfif); 
+  background-repeat: no-repeat;
+  background-size: 450px 300px;
+  box-shadow: 0px 0px 60px rgb(243, 6, 6);
+ 
+ }
+ #label{
+  color: rgb(7, 7, 7);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: larger;
+ }
+ #label1{
+  color: rgb(255, 255, 255);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: larger;
+ }
+ #BODY{
+  background-color:pink;
+  height: 500px;
+ }
+ #form{
+  box-shadow:0px 0px 50px rgb(206, 0, 0) ;
+ }
